@@ -77,7 +77,7 @@ def brute_face(user, wordlist):
 
 # main gangbang
 def main():
-    print(f"{Fore.MAGENTA}{'='*50}\n[!] DADGPT'S BRUTE SLAYER 9000 — LET'S FUCK SHIT UP\n{'='*50}")
+    print(f"{Fore.MAGENTA}{'='*50}\n[!] SAM BRUTE SLAYER 9000 — LET'S FUCK SHIT UP\n{'='*50}")
     
     print(f"{Fore.CYAN}[1] Instagram\n[2] Snapchat\n[3] Facebook")
     try:
